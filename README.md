@@ -10,9 +10,8 @@ Se utilizó un dataset generado en clase de Inteligencia Artificial, dividido en
 
 ## Contenido del repositorio
 
-### 1. Notebook de Entrenamiento - (./PP3_647026.ipynb) y HTML - (./PP3_647026.html)
-- [Reporte en formato html](./html11.html)
-- [Base de datos](./datos11.csv)
+### 1. [Notebook de Entrenamiento](./(./PP3_647026.ipynb) y  [Base de datos](./PP3_647026.html)
+
 
 
 Incluye:
@@ -22,7 +21,7 @@ Incluye:
 * Comparación de desempeño
 * Guardado de modelos y de los historiales de entrenamiento
 
-### 2. Notebook de Clasificación en Tiempo Real  - (./PP3_647026colab.ipynb) y HTML - (./PP3_647026colab.html)
+### 2.  [Notebook de Clasificación en Tiempo Real](./PP3_647026colab.ipynb) y [ HTML ](./PP3_647026colab.html)
 Incluye:
 
 * Carga del modelo final
