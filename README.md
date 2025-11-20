@@ -10,7 +10,7 @@ Se utilizó un dataset generado en clase de Inteligencia Artificial, dividido en
 
 ## Contenido del repositorio
 
-### 1. [Notebook de Entrenamiento](./PP3_647026colab.ipynb) y  [Base de datos](./PP3_647026colab.html)
+### 1. [Notebook de Entrenamiento](./PP3_647026colab.ipynb) y  [HTML](./PP3_647026colab.html)
 
 
 
